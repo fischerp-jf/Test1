@@ -1,3 +1,3 @@
 # Test1
 
-Test repository to use jupternotebook with gitlab
+Test repository to use jupter notebook with gitlab
